@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testBackgroundService</string>
+
+    <string name="foreground_service_notification_id">foreground_service_notification_id</string>
+</resources>
